@@ -1,9 +1,9 @@
 [
 	{
-		"name": "Dark",
+		"name": "Darki",
 		"author": "Jeremy Bishop",
 		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Dark/a.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Dark/a-min.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/a-min.jpg",
 		"collections": "Dark|Amoled",
 		"downloadable": true,
 		"copyright": "Commercial And Noncommercial"
