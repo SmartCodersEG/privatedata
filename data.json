@@ -1,5 +1,14 @@
 [
 
+{
+		"name": " ",
+		"author": " ",
+		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d10.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd10.jpg",
+		"collections": "Gaming,Mixed",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
 
 {
 		"name": " ",
@@ -14,26 +23,18 @@
 	{
 		"name": " ",
 		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd1.jpg",
+		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d1.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd1.png",
 		"collections": "Gaming",
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
 	},
+
 	{
 		"name": " ",
 		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d2.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd2.jpg",
-		"collections": "Gaming",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
-	{
-		"name": " ",
-		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d3.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd3.jpg",
+		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d3.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd3.png",
 		"collections": "Gaming,Mixed",
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
@@ -179,18 +180,9 @@
 	{
 		"name": " ",
 		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d5.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd5.jpg",
+		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d5.png",
+		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd5.png",
 		"collections": "Gaming,Mixed",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
-	{
-		"name": " ",
-		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d6.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd6.jpg",
-		"collections": "Gaming",
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
 	},
@@ -206,27 +198,9 @@
 	{
 		"name": " ",
 		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d8.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd8.jpg",
-		"collections": "Gaming,Mixed",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
-	{
-		"name": " ",
-		"author": " ",
 		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d9.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd9.jpg",
 		"collections": "Gaming",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
-	{
-		"name": " ",
-		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d10.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd10.jpg",
-		"collections": "Gaming,Mixed",
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
 	},
@@ -515,15 +489,7 @@
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
 	},
-	{
-		"name": " ",
-		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d19.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd19.jpg",
-		"collections": "Gaming",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
+
 	{
 		"name": " ",
 		"author": " ",
@@ -545,44 +511,18 @@
 	{
 		"name": " ",
 		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d22.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd22.jpg",
-		"collections": "Gaming",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
-	{
-		"name": " ",
-		"author": " ",
 		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d23.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd23.jpg",
 		"collections": "Gaming",
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
 	},
-	{
-		"name": " ",
-		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d24.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd24.jpg",
-		"collections": "Gaming,Mixed",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
+	
 	{
 		"name": " ",
 		"author": " ",
 		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d25.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd25.jpg",
-		"collections": "Gaming",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
-	{
-		"name": " ",
-		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d26.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd26.jpg",
 		"collections": "Gaming",
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
@@ -596,15 +536,7 @@
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
 	},
-	{
-		"name": " ",
-		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d28.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd28.jpg",
-		"collections": "Gaming",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
+
 	
 	
 	{
@@ -791,15 +723,7 @@
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
 	},
-	{
-		"name": " ",
-		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d30.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd30.jpg",
-		"collections": "Gaming,Mixed",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
+
 	
 	{
 		"name": " ",
@@ -807,15 +731,6 @@
 		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d31.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd31.jpg",
 		"collections": "Gaming,Mixed",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
-	{
-		"name": " ",
-		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/d32.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Gaming/tmd32.jpg",
-		"collections": "Gaming",
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
 	},
