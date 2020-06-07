@@ -9,39 +9,11 @@
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
 	},
-	
-	{
-		"name": " ",
-		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Cars/b1.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Cars/tmb1.jpg",
-		"collections": "Cars",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
-	{
-		"name": " ",
-		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Cars/b2.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Cars/tmb2.jpg",
-		"collections": "Cars",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
 	{
 		"name": " ",
 		"author": " ",
 		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Cars/b3.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Cars/tmb3.jpg",
-		"collections": "Cars",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
-	{
-		"name": " ",
-		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Cars/b4.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Cars/tmb4.jpg",
 		"collections": "Cars",
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
@@ -94,21 +66,16 @@
 	{
 		"name": " ",
 		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Cars/b10.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Cars/tmb10.jpg",
-		"collections": "Cars",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
-	{
-		"name": " ",
-		"author": " ",
 		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Cars/b11.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Cars/tmb12.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Cars/tmb11.jpg",
 		"collections": "Cars",
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
 	},
+	
+	
+	
+	
 	
 	
 	{
