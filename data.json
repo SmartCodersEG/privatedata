@@ -1,20 +1,11 @@
 [
 
-		{
-		"name": " ",
-		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Dark/D%20(12).jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Dark/thum/TD%20(14).jpg",
-		"collections": "Mixed,Dark,Nature,Minimal,Abstract,Material,Gaming,Cars,Sports,Amoled",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
 	{
 		"name": " ",
 		"author": " ",
 		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Dark/D%20(1).jpg",
 		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Dark/thum/TD%20(3).jpg",
-		"collections": "Dark",
+		"collections": "Mixed",
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
 	},
