@@ -20,6 +20,16 @@
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
 	},
+	
+	{
+		"name": " ",
+		"author": " ",
+		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Nature/c12.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Nature/tmc12.jpg",
+		"collections": "Nature",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
 	{
 		"name": " ",
 		"author": " ",
@@ -70,7 +80,7 @@
 		"name": " ",
 		"author": " ",
 		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Nature/c11.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Nature/tmc12.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Nature/tmc11.jpg",
 		"collections": "Nature",
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
