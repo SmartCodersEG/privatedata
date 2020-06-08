@@ -410,6 +410,7 @@
 		"copyright": "Free (do whatever you want)"
 	},
 	
+	
 	{
 		"name": " ",
 		"author": " ",
@@ -769,7 +770,17 @@
 		"name": " ",
 		"author": " ",
 		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Sports/e11.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Sports/tme12.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Sports/tme11.jpg",
+		"collections": "Sports,Dark,Mixed",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	
+	{
+		"name": " ",
+		"author": " ",
+		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Sports/e11.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Sports/tme11.jpg",
 		"collections": "Sports,Dark,Mixed",
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
@@ -777,8 +788,8 @@
 	{
 		"name": " ",
 		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Sports/e13.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Sports/tme13.jpg",
+		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Sports/e12.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Sports/tme12.jpg",
 		"collections": "Sports",
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
