@@ -23,6 +23,16 @@
 		"name": " ",
 		"author": " ",
 		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Mixed/f11.jpg",
+		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Mixed/tmf11.jpg",
+		"collections": "Mixed,Nature",
+		"downloadable": true,
+		"copyright": "Free (do whatever you want)"
+	},
+	
+	{
+		"name": " ",
+		"author": " ",
+		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Mixed/f12.jpg",
 		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Mixed/tmf12.jpg",
 		"collections": "Mixed,Nature",
 		"downloadable": true,
