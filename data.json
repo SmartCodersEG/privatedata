@@ -183,15 +183,7 @@
 		"downloadable": true,
 		"copyright": "Free (do whatever you want)"
 	},
-	{
-		"name": " ",
-		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Mixed/f29.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Mixed/tmf29.jpg",
-		"collections": "Mixed",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
+	
 	{
 		"name": " ",
 		"author": " ",
@@ -202,15 +194,6 @@
 		"copyright": "Free (do whatever you want)"
 	},
 	
-	{
-		"name": " ",
-		"author": " ",
-		"url": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Mixed/f31.jpg",
-		"thumbnail": "https://raw.githubusercontent.com/SmartCodersEG/privatedata/master/Mixed/tmf31.jpg",
-		"collections": "Mixed,Cars",
-		"downloadable": true,
-		"copyright": "Free (do whatever you want)"
-	},
 	{
 		"name": " ",
 		"author": " ",
